@@ -9,19 +9,10 @@ Program ini dibuat untuk memenuhi tugas UAS mata kuliah Praktik PBO
  
  
  ## Library yang dibutuhkan 
- 
- ```
- pip install PyQt5
- ```
- 
- ```
- pip install pyuic5-tool
- ```
- 
- ```
- pip install pyinstaller
- ```
-``` 
+```
+pip install PyQt5
+pip install pyuic5-tool
+pip install pyinstaller
 pip install googletrans
 ```
  
