@@ -21,6 +21,8 @@ Program ini dibuat untuk memenuhi tugas UAS mata kuliah Praktik PBO
  ```
  pip install pyinstaller
  ```
+``` 
+pip install googletrans
+```
  
- 
- ### Jika ada error saat menginstall pyinstaller, coba matikan anti virus / windows defender pada saat menginstall.
+ ### Jika ada error saat menginstall pyinstaller / googletrans, coba matikan anti virus / windows defender pada saat menginstall.
